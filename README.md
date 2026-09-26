@@ -2,6 +2,6 @@ Tervetuloa katsomaan puuhailujani!
 
 ## Sivut
 
-    - minusta.md    
-    - projektit.md
+    - [Minusta](minusta.md)    
+    - [Projektit](projektit.md)
     
