@@ -4,6 +4,6 @@ Tervetuloa seurailemaan puuhiani puuhailujani!
 
 ## Sivut
 
-    - [Minusta](minusta.md)    
-    - [Projektit](projektit.md)
+- [Minusta](minusta.md)
+- [Projektit](projektit.md)
     
