@@ -1,5 +1,3 @@
-# Siirin puuhailut
-
 Tervetuloa katsomaan puuhailujani!
 
 ## Sivut
