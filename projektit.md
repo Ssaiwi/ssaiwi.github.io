@@ -4,4 +4,4 @@ Alta voit nähdä mitä kaikkea saan aikaan ja millä kursilla:
 
 ### Ohjelmistokehittämisen työkalut:
 
-- IndexSR.md 
+- [Lopputyö](indexSR.md)
