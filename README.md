@@ -1,8 +1,8 @@
-# # Siirin puuhailut
+# Siirin puuhailut
 
 Tervetuloa katsomaan puuhailujani!
 
 ## Sivut
 
-    - Minusta.md    
-    - Projektit.md
+    - minusta.md    
+    - projektit.md
